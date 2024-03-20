@@ -1,0 +1,15 @@
+basePath: /v2
+host: petstore.swagger.io
+info:
+  contact:
+    email: support@swagger.io
+    name: API Support
+    url: http://www.swagger.io/support
+  description: This API provides endpoints for managing products and health check.
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  title: Product Service API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

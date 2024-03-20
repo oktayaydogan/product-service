@@ -1,0 +1,5 @@
+DBUsername: root
+DBPassword: root
+DBHost: localhost
+DBPort: 3306
+DBName: test
